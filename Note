@@ -1,0 +1,7 @@
+#This is the first file im adding other than the read me note thing 
+#So i see this is to add files of code obviously but then what? 
+#The files of code are put together to create a preoject i guess? 
+
+note = prettydamncool 
+print(note) 
+
